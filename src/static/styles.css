@@ -886,8 +886,7 @@ p4 {
   .third-background-image,
   .Fourth-background-image,
   .Fifth-background-image {
-    background-size: cover;
-    height:100vh;
+    height: auto;
   }
 
   .background-image {
