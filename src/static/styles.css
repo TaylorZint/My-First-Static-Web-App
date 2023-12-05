@@ -1032,7 +1032,6 @@ p4 {
   .Fourth-background-image,
   .Fifth-background-image {
     background-size: cover;
-    height:100vh;
   }
 
   .background-image {
