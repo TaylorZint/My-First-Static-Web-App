@@ -509,9 +509,36 @@ p4 {
   .Quote-text {
     display: none;
   }
+  
+h2 {
+  text-transform: uppercase;
+  font-family: 'Park Lane NF', sans-serif;
+}
 
-p4{
+a {
+  font-family: 'Breamcatcher', sans-serif;
+  color: #C0C0C0;
+}
+
+a2 {
+  font-family: 'Breamcatcher', sans-serif;
+  color: #060606;
+}
+
+p2 {
+  font-family: 'Breamcatcher', sans-serif;
+  color: #D4AF37;
+}
+
+p3 {
+  color: #D4AF37; /* Change the color as needed */
+  font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p4 {
   font-size: 40px;
+  font-family: 'Park Lane NF', sans-serif;
+  color: #D4AF37;
 }
 
 .parallax-layer {
@@ -626,8 +653,35 @@ background-position-x: -200px;
     display: none;
   }
 
-p4{
+h2 {
+  text-transform: uppercase;
+  font-family: 'Park Lane NF', sans-serif;
+}
+
+a {
+  font-family: 'Breamcatcher', sans-serif;
+  color: #C0C0C0;
+}
+
+a2 {
+  font-family: 'Breamcatcher', sans-serif;
+  color: #060606;
+}
+
+p2 {
+  font-family: 'Breamcatcher', sans-serif;
+  color: #D4AF37;
+}
+
+p3 {
+  color: #D4AF37; /* Change the color as needed */
+  font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p4 {
   font-size: 40px;
+  font-family: 'Park Lane NF', sans-serif;
+  color: #D4AF37;
 }
 
 .parallax-layer {
@@ -742,8 +796,35 @@ background-position-x: -200px;
     display: none;
   }
 
-p4{
+h2 {
+  text-transform: uppercase;
+  font-family: 'Park Lane NF', sans-serif;
+}
+
+a {
+  font-family: 'Breamcatcher', sans-serif;
+  color: #C0C0C0;
+}
+
+a2 {
+  font-family: 'Breamcatcher', sans-serif;
+  color: #060606;
+}
+
+p2 {
+  font-family: 'Breamcatcher', sans-serif;
+  color: #D4AF37;
+}
+
+p3 {
+  color: #D4AF37; /* Change the color as needed */
+  font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p4 {
   font-size: 40px;
+  font-family: 'Park Lane NF', sans-serif;
+  color: #D4AF37;
 }
 
 .parallax-layer {
@@ -862,10 +943,36 @@ background-position-x: -200px;
   font-size: 20px;
 }
 
-p4{
-  font-size: 32.8px;
+h2 {
+  text-transform: uppercase;
+  font-family: 'Park Lane NF', sans-serif;
 }
 
+a {
+  font-family: 'Breamcatcher', sans-serif;
+  color: #C0C0C0;
+}
+
+a2 {
+  font-family: 'Breamcatcher', sans-serif;
+  color: #060606;
+}
+
+p2 {
+  font-family: 'Breamcatcher', sans-serif;
+  color: #D4AF37;
+}
+
+p3 {
+  color: #D4AF37; /* Change the color as needed */
+  font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p4 {
+  font-size: 40px;
+  font-family: 'Park Lane NF', sans-serif;
+  color: #D4AF37;
+}
 .parallax-layer {
   top: 30%; /* Adjust the top position */
 }
