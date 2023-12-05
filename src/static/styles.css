@@ -493,6 +493,11 @@ p4 {
   opacity: 1;
 }
 
+@font-face {
+  font-family: 'Breamcatcher';
+  src: url('src/static/BREAMCATCHER RG.OTF') format('otf');
+}
+
 @media only screen and (max-width: 430px) {
   /* Reset default styles for small screens */
   body {
@@ -509,11 +514,6 @@ p4 {
   .Quote-text {
     display: none;
   }
-
-@font-face {
-  font-family: 'Breamcatcher';
-  src: url('src/static/BREAMCATCHER RG.OTF') format('otf');
-}
 
 h2 {
   text-transform: uppercase;
@@ -658,11 +658,6 @@ background-position-x: -200px;
     display: none;
   }
 
-  @font-face {
-  font-family: 'Breamcatcher';
-  src: url('src/static/BREAMCATCHER RG.OTF') format('otf');
-}
-
 h2 {
   text-transform: uppercase;
   font-family: 'Park Lane NF', sans-serif;
@@ -805,11 +800,6 @@ background-position-x: -200px;
   .Quote-text {
     display: none;
   }
-
-  @font-face {
-  font-family: 'Breamcatcher';
-  src: url('src/static/BREAMCATCHER RG.OTF') format('otf');
-}
 
 h2 {
   text-transform: uppercase;
@@ -956,11 +946,6 @@ background-position-x: -200px;
 
   .art-deco-navigation a {
   font-size: 20px;
-}
-
-  @font-face {
-  font-family: 'Breamcatcher';
-  src: url('src/static/BREAMCATCHER RG.OTF') format('otf');
 }
 
 h2 {
