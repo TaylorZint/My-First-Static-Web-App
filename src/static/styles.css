@@ -495,7 +495,7 @@ p4 {
 
 @font-face {
   font-family: 'Breamcatcher';
-  src: url('BREAMCATCHER RG.OTF') format('otf');
+  src: url('BREAMCATCHER RG.OTF') format('opentype');
 }
 
 @media only screen and (max-width: 430px) {
