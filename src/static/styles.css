@@ -498,6 +498,11 @@ p4 {
   src: url('BREAMCATCHER RG.OTF') format('opentype');
 }
 
+@font-face {
+  font-family: 'Park Lane NF';
+  src: url('PARKLANENF.OTF') format('opentype');
+}
+
 @media only screen and (max-width: 430px) {
   /* Reset default styles for small screens */
   body {
