@@ -602,7 +602,6 @@ p4 {
   .third-background-image,
   .Fourth-background-image,
   .Fifth-background-image {
-    background-size:cover;
     height:auto; /* Auto height based on content */
   }
 
@@ -745,7 +744,6 @@ p4 {
   .third-background-image,
   .Fourth-background-image,
   .Fifth-background-image {
-    background-size:cover;
     height:auto; /* Auto height based on content */
   }
 
@@ -888,7 +886,6 @@ p4 {
   .third-background-image,
   .Fourth-background-image,
   .Fifth-background-image {
-    background-size:cover;
     height:auto; /* Auto height based on content */
   }
 
@@ -1034,7 +1031,6 @@ p4 {
   .third-background-image,
   .Fourth-background-image,
   .Fifth-background-image {
-    background-size:cover;
     height:auto; /* Auto height based on content */
   }
 
