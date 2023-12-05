@@ -1031,8 +1031,8 @@ p4 {
   .third-background-image,
   .Fourth-background-image,
   .Fifth-background-image {
-    background-size: contain;
-    height:auto; /* Auto height based on content */
+    background-size: cover;
+    height:100vh;
   }
 
   .background-image {
