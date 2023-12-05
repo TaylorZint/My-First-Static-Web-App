@@ -493,8 +493,7 @@ p4 {
   opacity: 1;
 }
 
-/* Add this media query at the end of your CSS code */
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 430px) {
   /* Reset default styles for small screens */
   body {
     overflow-x: hidden; /* Hide horizontal scrollbar */
@@ -522,7 +521,7 @@ p4{
 .rotating-image {
   width: 150px; /* Adjust the width to make it smaller */
   height: auto; /* Maintain aspect ratio */
-  margin-top: 295px;
+  margin-top: 360px;
   margin-left: -2px;
 }
 
@@ -545,13 +544,13 @@ p4{
   }
 
   .art-deco-box {
-    top: -275px;
+    top: -295px;
     margin-left: 0%;
     width: 100%;
   }
 
   .art-deco-box6 {
-    bottom: -1177px;
+    bottom: -1400px;
     margin-left: 0%;
     width: 100%;
     padding-bottom: 85px;
@@ -571,14 +570,14 @@ p4{
   }
 
   .background-image {
-    background-position-y:140px;
+    background-position-y:240px;
     background-position-x: -13px;  
     transition: none;
   }
 
   .second-background-image {
-background-position-y:170px;
-background-position-x: -140px;
+background-position-y:180px;
+background-position-x: -200px;
   }
 
   .Fourth-background-image {
@@ -597,7 +596,359 @@ background-position-x: -140px;
     flex-direction: row; /* Change to row for horizontal alignment */
     justify-content: space-between; /* Optional: Adjust as needed for spacing between containers */
     align-items: center;
-    height: 151px;
+    height: 230px;
+  }
+
+  .art-deco-navigation a::before,
+  .art-deco-navigation a::after {
+    width: 2px; /* Adjust the width of pseudo-elements */
+    height: 10px; /* Adjust the height of pseudo-elements */
+    top: -15px; /* Position pseudo-elements above and below */
+    left: 50%; /* Center pseudo-elements horizontally */
+    transform: translateX(-50%); /* Center pseudo-elements horizontally */
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  /* Reset default styles for small screens */
+  body {
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .Quote-text {
+    display: none;
+  }
+
+p4{
+  font-size: 40px;
+}
+
+.parallax-layer {
+  top: 30%; /* Adjust the top position */
+}
+
+.rotating-image {
+  width: 130px; /* Adjust the width to make it smaller */
+  height: auto; /* Maintain aspect ratio */
+  margin-top: 370px;
+  margin-left: -3px;
+}
+
+/* Adjust styles for the boxes to fit the screen horizontally */
+  .art-deco-box2,
+  .art-deco-box3,
+  .art-deco-box4,
+  .art-deco-box5,
+  .art-deco-box6 {
+    width: 90%; /* Make the boxes full-width */
+    margin: 0; /* Remove margin for small screens */
+    left: 0; /* Align to the left of the container */
+    right: auto; /* Reset the right property */
+    transform: none; /* Reset any transformation */
+    top: auto; /* Reset the top property */
+    bottom: auto; /* Reset the bottom property */
+    height: auto; /* Auto height based on content */
+    opacity: 0;
+  transition: opacity 0.5s ease; /* Add a transition for a smooth appearance */
+  }
+
+  .art-deco-box {
+    top: -295px;
+    margin-left: 0%;
+    width: 100%;
+  }
+
+  .art-deco-box6 {
+    bottom: -1290px;
+    margin-left: 0%;
+    width: 100%;
+    padding-bottom: 85px;
+  }
+
+  .small-image {
+    bottom: 0px;
+  }
+
+  /* Additional adjustments for other elements if needed */
+  .second-background-image,
+  .third-background-image,
+  .Fourth-background-image,
+  .Fifth-background-image {
+    background-size:cover;
+    height:auto; /* Auto height based on content */
+  }
+
+  .background-image {
+    background-position-y:240px;
+    background-position-x: -13px;  
+    transition: none;
+  }
+
+  .second-background-image {
+background-position-y:180px;
+background-position-x: -200px;
+  }
+
+  .Fourth-background-image {
+    background-position-y:130px;
+    background-position-x: -120px;
+      }
+
+  .Fifth-background-image {
+    background-size: cover;
+    height: 1850px;
+      }
+
+  /* Modify navigation styles for small screens */
+  .art-deco-navigation {
+    display: flex;
+    flex-direction: row; /* Change to row for horizontal alignment */
+    justify-content: space-between; /* Optional: Adjust as needed for spacing between containers */
+    align-items: center;
+    height: 230px;
+  }
+
+  .art-deco-navigation a::before,
+  .art-deco-navigation a::after {
+    width: 2px; /* Adjust the width of pseudo-elements */
+    height: 10px; /* Adjust the height of pseudo-elements */
+    top: -15px; /* Position pseudo-elements above and below */
+    left: 50%; /* Center pseudo-elements horizontally */
+    transform: translateX(-50%); /* Center pseudo-elements horizontally */
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  /* Reset default styles for small screens */
+  body {
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .Quote-text {
+    display: none;
+  }
+
+p4{
+  font-size: 40px;
+}
+
+.parallax-layer {
+  top: 30%; /* Adjust the top position */
+}
+
+.rotating-image {
+  width: 140px; /* Adjust the width to make it smaller */
+  height: auto; /* Maintain aspect ratio */
+  margin-top: 365px;
+  margin-left: -3px;
+}
+
+/* Adjust styles for the boxes to fit the screen horizontally */
+  .art-deco-box2,
+  .art-deco-box3,
+  .art-deco-box4,
+  .art-deco-box5,
+  .art-deco-box6 {
+    width: 90%; /* Make the boxes full-width */
+    margin: 0; /* Remove margin for small screens */
+    left: 0; /* Align to the left of the container */
+    right: auto; /* Reset the right property */
+    transform: none; /* Reset any transformation */
+    top: auto; /* Reset the top property */
+    bottom: auto; /* Reset the bottom property */
+    height: auto; /* Auto height based on content */
+    opacity: 0;
+  transition: opacity 0.5s ease; /* Add a transition for a smooth appearance */
+  }
+
+  .art-deco-box {
+    top: -295px;
+    margin-left: 0%;
+    width: 100%;
+  }
+
+  .art-deco-box6 {
+    bottom: -1200px;
+    margin-left: 0%;
+    width: 100%;
+    padding-bottom: 85px;
+  }
+
+  .small-image {
+    bottom: 0px;
+  }
+
+  /* Additional adjustments for other elements if needed */
+  .second-background-image,
+  .third-background-image,
+  .Fourth-background-image,
+  .Fifth-background-image {
+    background-size:cover;
+    height:auto; /* Auto height based on content */
+  }
+
+  .background-image {
+    background-position-y:240px;
+    background-position-x: -13px;  
+    transition: none;
+  }
+
+  .second-background-image {
+background-position-y:180px;
+background-position-x: -200px;
+  }
+
+  .Fourth-background-image {
+    background-position-y:130px;
+    background-position-x: -120px;
+      }
+
+  .Fifth-background-image {
+    background-size: cover;
+    height: 1750px;
+      }
+
+  /* Modify navigation styles for small screens */
+  .art-deco-navigation {
+    display: flex;
+    flex-direction: row; /* Change to row for horizontal alignment */
+    justify-content: space-between; /* Optional: Adjust as needed for spacing between containers */
+    align-items: center;
+    height: 230px;
+  }
+
+  .art-deco-navigation a::before,
+  .art-deco-navigation a::after {
+    width: 2px; /* Adjust the width of pseudo-elements */
+    height: 10px; /* Adjust the height of pseudo-elements */
+    top: -15px; /* Position pseudo-elements above and below */
+    left: 50%; /* Center pseudo-elements horizontally */
+    transform: translateX(-50%); /* Center pseudo-elements horizontally */
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  /* Reset default styles for small screens */
+  body {
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .Quote-text {
+    display: none;
+  }
+
+  .art-deco-navigation a {
+  font-size: 20px;
+}
+
+p4{
+  font-size: 32.8px;
+}
+
+.parallax-layer {
+  top: 30%; /* Adjust the top position */
+}
+
+.rotating-image {
+  width: 120px; /* Adjust the width to make it smaller */
+  height: auto; /* Maintain aspect ratio */
+  margin-top: 345px;
+  margin-left: -4px;
+}
+
+/* Adjust styles for the boxes to fit the screen horizontally */
+  .art-deco-box2,
+  .art-deco-box3,
+  .art-deco-box4,
+  .art-deco-box5,
+  .art-deco-box6 {
+    width: 90%; /* Make the boxes full-width */
+    margin: 0; /* Remove margin for small screens */
+    left: 0; /* Align to the left of the container */
+    right: auto; /* Reset the right property */
+    transform: none; /* Reset any transformation */
+    top: auto; /* Reset the top property */
+    bottom: auto; /* Reset the bottom property */
+    height: auto; /* Auto height based on content */
+    opacity: 0;
+  transition: opacity 0.5s ease; /* Add a transition for a smooth appearance */
+  }
+
+  .art-deco-box {
+    top: -237px;
+    margin-left: 0%;
+    width: 100%;
+  }
+
+  .art-deco-box6 {
+    bottom: -1365px;
+    margin-left: 0%;
+    width: 100%;
+    padding-bottom: 85px;
+  }
+
+  .small-image {
+    bottom: 0px;
+  }
+
+  /* Additional adjustments for other elements if needed */
+  .second-background-image,
+  .third-background-image,
+  .Fourth-background-image,
+  .Fifth-background-image {
+    background-size:cover;
+    height:auto; /* Auto height based on content */
+  }
+
+  .background-image {
+    background-position-y:180px;
+    background-position-x: -13px;  
+    transition: none;
+  }
+
+  .second-background-image {
+background-position-y:180px;
+background-position-x: -200px;
+  }
+
+  .Fourth-background-image {
+    background-position-y:130px;
+    background-position-x: -120px;
+      }
+
+  .Fifth-background-image {
+    background-size: cover;
+    height: 1950px;
+      }
+
+  /* Modify navigation styles for small screens */
+  .art-deco-navigation {
+    display: flex;
+    flex-direction: row; /* Change to row for horizontal alignment */
+    justify-content: space-between; /* Optional: Adjust as needed for spacing between containers */
+    align-items: center;
+    height: 180px;
   }
 
   .art-deco-navigation a::before,
