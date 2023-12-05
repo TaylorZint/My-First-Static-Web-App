@@ -602,6 +602,7 @@ p4 {
   .third-background-image,
   .Fourth-background-image,
   .Fifth-background-image {
+    background-size: contain;
     height:auto; /* Auto height based on content */
   }
 
@@ -622,7 +623,6 @@ background-position-x: -200px;
       }
 
   .Fifth-background-image {
-    background-size: cover;
     height: 1690px;
       }
 
@@ -764,7 +764,6 @@ background-position-x: -200px;
       }
 
   .Fifth-background-image {
-    background-size: cover;
     height: 1850px;
       }
 
@@ -906,7 +905,6 @@ background-position-x: -200px;
       }
 
   .Fifth-background-image {
-    background-size: cover;
     height: 1750px;
       }
 
@@ -1051,7 +1049,6 @@ background-position-x: -200px;
       }
 
   .Fifth-background-image {
-    background-size: cover;
     height: 1950px;
       }
 
