@@ -597,7 +597,7 @@ p4 {
   }
 
   .art-deco-box6 {
-    bottom: -1700px;
+    bottom: -1200px;
     margin-left: 0%;
     width: 100%;
     padding-bottom: 85px;
@@ -616,22 +616,23 @@ p4 {
   }
 
   .background-image {
-    background-position-y:200px;
+    background-position-y:150px;
     background-position-x: -13px;  
     transition: none;
   }
 
   .second-background-image {
 background-position-y:180px;
-background-position-x: -100px;
+background-position-x: -50px;
   }
 
   .Fourth-background-image {
     background-position-y:130px;
-    background-position-x: -100px;
+    background-position-x: 0px;
       }
 
   .Fifth-background-image {
+    background-position-y:0px;
     height: 1800px;
       }
 
