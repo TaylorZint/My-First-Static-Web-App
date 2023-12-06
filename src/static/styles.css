@@ -568,7 +568,7 @@ p4 {
 .rotating-image {
   width: 120px; /* Adjust the width to make it smaller */
   height: auto; /* Maintain aspect ratio */
-  margin-top: 300px;
+  margin-top: 305px;
   margin-left: -5px;
 }
 
@@ -597,7 +597,7 @@ p4 {
   }
 
   .art-deco-box6 {
-    bottom: -1500px;
+    bottom: -1510px;
     margin-left: 0%;
     width: 100%;
     padding-bottom: 85px;
@@ -627,7 +627,7 @@ background-position-x: 0px;
   }
 
    .third-background-image {
-    background-position-y:-180px;
+    background-position-y:-160px;
   }
 
     .Fourth-background-image {
