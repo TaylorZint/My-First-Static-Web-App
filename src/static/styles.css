@@ -525,7 +525,7 @@ p4 {
   line-height: 1.6;
   font-family: 'Breamcatcher', sans-serif;
   color: #C0C0C0;
-  text-decoration: #D4AF37 dotted underline;
+  text-decoration: dotted underline #D4AF37;
   position: relative;
   transition: color 0.3s ease;
 }
@@ -568,7 +568,7 @@ p4 {
 .rotating-image {
   width: 120px; /* Adjust the width to make it smaller */
   height: auto; /* Maintain aspect ratio */
-  margin-top: 310px;
+  margin-top: 300px;
   margin-left: -5px;
 }
 
@@ -597,7 +597,7 @@ p4 {
   }
 
   .art-deco-box6 {
-    bottom: -1480px;
+    bottom: -1500px;
     margin-left: 0%;
     width: 100%;
     padding-bottom: 85px;
@@ -638,7 +638,7 @@ background-position-x: 0px;
   .Fifth-background-image {
     background-position-y:80px;
     background-position-x: 0px;
-    height: 2100px;
+    height: 2050px;
       }
 
   /* Modify navigation styles for small screens */
