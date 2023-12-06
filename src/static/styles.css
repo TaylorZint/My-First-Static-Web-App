@@ -525,7 +525,7 @@ p4 {
   line-height: 1.6;
   font-family: 'Breamcatcher', sans-serif;
   color: #C0C0C0;
-  text-decoration: none;
+  text-decoration: #D4AF37 dotted underline;
   position: relative;
   transition: color 0.3s ease;
 }
@@ -569,7 +569,7 @@ p4 {
   width: 120px; /* Adjust the width to make it smaller */
   height: auto; /* Maintain aspect ratio */
   margin-top: 310px;
-  margin-left: -1px;
+  margin-left: -5px;
 }
 
 /* Adjust styles for the boxes to fit the screen horizontally */
@@ -597,7 +597,7 @@ p4 {
   }
 
   .art-deco-box6 {
-    bottom: -1515px;
+    bottom: -1490px;
     margin-left: 0%;
     width: 100%;
     padding-bottom: 85px;
@@ -622,12 +622,12 @@ p4 {
   }
 
    .second-background-image {
-background-position-y:-30px;
+background-position-y:-37px;
 background-position-x: 0px;
   }
 
    .third-background-image {
-    background-position-y:-80px;
+    background-position-y:-200px;
   }
 
     .Fourth-background-image {
@@ -636,8 +636,8 @@ background-position-x: 0px;
       }
 
   .Fifth-background-image {
-    background-position-y:60px;
-    height: 2000px;
+    background-position-y:80px;
+    height: 2300px;
       }
 
   /* Modify navigation styles for small screens */
