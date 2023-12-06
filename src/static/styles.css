@@ -566,9 +566,9 @@ p4 {
 }
 
 .rotating-image {
-  width: 150px; /* Adjust the width to make it smaller */
+  width: 130px; /* Adjust the width to make it smaller */
   height: auto; /* Maintain aspect ratio */
-  margin-top: 360px;
+  margin-top: 330px;
   margin-left: -2px;
 }
 
@@ -597,7 +597,7 @@ p4 {
   }
 
   .art-deco-box6 {
-    bottom: -1200px;
+    bottom: -1900px;
     margin-left: 0%;
     width: 100%;
     padding-bottom: 85px;
@@ -622,12 +622,12 @@ p4 {
   }
 
   .second-background-image {
-background-position-y:180px;
-background-position-x: -50px;
+background-position-y:0px;
+background-position-x: 0px;
   }
 
   .Fourth-background-image {
-    background-position-y:130px;
+    background-position-y:0px;
     background-position-x: 0px;
       }
 
