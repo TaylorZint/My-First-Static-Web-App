@@ -569,7 +569,7 @@ p4 {
   width: 120px; /* Adjust the width to make it smaller */
   height: auto; /* Maintain aspect ratio */
   margin-top: 310px;
-  margin-left: -2px;
+  margin-left: -3px;
 }
 
 /* Adjust styles for the boxes to fit the screen horizontally */
@@ -597,7 +597,7 @@ p4 {
   }
 
   .art-deco-box6 {
-    bottom: -1600px;
+    bottom: -1500px;
     margin-left: 0%;
     width: 100%;
     padding-bottom: 85px;
@@ -621,19 +621,23 @@ p4 {
     transition: none;
   }
 
-  .second-background-image {
-background-position-y:-10px;
+   .second-background-image {
+background-position-y:-20px;
 background-position-x: 0px;
   }
 
-  .Fourth-background-image {
-    background-position-y:-10px;
+   .third-background-image {
+    background-position-y:-30px;
+  }
+
+    .Fourth-background-image {
+    background-position-y:-15px;
     background-position-x: 0px;
       }
 
   .Fifth-background-image {
-    background-position-y:0px;
-    height: 1800px;
+    background-position-y:20px;
+    height: 1200px;
       }
 
   /* Modify navigation styles for small screens */
