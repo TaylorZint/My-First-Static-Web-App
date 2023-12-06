@@ -520,6 +520,16 @@ p4 {
     display: none;
   }
 
+.art-deco-navigation a {
+  font-size: 20px;
+  line-height: 1.6;
+  font-family: 'Breamcatcher', sans-serif;
+  color: #C0C0C0;
+  text-decoration: none;
+  position: relative;
+  transition: color 0.3s ease;
+}
+  
 h2 {
   text-transform: uppercase;
   font-family: 'Park Lane NF', sans-serif;
@@ -587,7 +597,7 @@ p4 {
   }
 
   .art-deco-box6 {
-    bottom: -1400px;
+    bottom: -1700px;
     margin-left: 0%;
     width: 100%;
     padding-bottom: 85px;
@@ -606,23 +616,23 @@ p4 {
   }
 
   .background-image {
-    background-position-y:240px;
+    background-position-y:200px;
     background-position-x: -13px;  
     transition: none;
   }
 
   .second-background-image {
 background-position-y:180px;
-background-position-x: -200px;
+background-position-x: -100px;
   }
 
   .Fourth-background-image {
     background-position-y:130px;
-    background-position-x: -120px;
+    background-position-x: -100px;
       }
 
   .Fifth-background-image {
-    height: 1690px;
+    height: 1800px;
       }
 
   /* Modify navigation styles for small screens */
