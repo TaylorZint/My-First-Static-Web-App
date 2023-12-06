@@ -597,7 +597,7 @@ p4 {
   }
 
   .art-deco-box6 {
-    bottom: -1490px;
+    bottom: -1480px;
     margin-left: 0%;
     width: 100%;
     padding-bottom: 85px;
@@ -627,17 +627,18 @@ background-position-x: 0px;
   }
 
    .third-background-image {
-    background-position-y:-200px;
+    background-position-y:-180px;
   }
 
     .Fourth-background-image {
-    background-position-y:-30px;
+    background-position-y:-25px;
     background-position-x: 0px;
       }
 
   .Fifth-background-image {
     background-position-y:80px;
-    height: 2300px;
+    background-position-x: 0px;
+    height: 2100px;
       }
 
   /* Modify navigation styles for small screens */
