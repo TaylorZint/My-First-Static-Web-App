@@ -628,11 +628,21 @@ p4 {
     height: auto;
   }
 
-  .background-image {
-    background-position-y:150px;
-    background-position-x: -13px;  
-    transition: none;
-  }
+.background-image {
+  background-image: url('../images/Background9.png');
+  background-attachment: fixed; /* Create parallax effect */
+  background-size: contain;
+  background-position-x: -100px;
+  background-position-y: 150px;
+  height: 100vh;
+  width: 70%;
+}
+
+.content2 {
+  background: black;
+  height: 100vh; /* Adjust the height as needed */
+  background-position-x: 100px;
+}
 
    .second-background-image {
 background-position-y:-37px;
