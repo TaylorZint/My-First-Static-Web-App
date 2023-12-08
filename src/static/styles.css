@@ -633,7 +633,7 @@ p4 {
   background-attachment: fixed; /* Create parallax effect */
   background-size: contain;
   background-position-x: -100px;
-  background-position-y: 150px;
+  background-position-y: 100px;
   height: 100vh;
   width: 70%;
 }
@@ -670,7 +670,7 @@ background-position-x: 0px;
     flex-direction: row; /* Change to row for horizontal alignment */
     justify-content: space-between; /* Optional: Adjust as needed for spacing between containers */
     align-items: center;
-    height: 150px;
+    height: 100px;
   }
 
   .art-deco-navigation a::before,
