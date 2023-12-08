@@ -631,11 +631,11 @@ p4 {
 .background-image {
   background-image: url('../images/Background9.png');
   background-attachment: fixed; /* Create parallax effect */
-  background-size: 280px;
-  background-position-x: 210px;
+  background-size: 260px;
+  background-position-x: 190px;
   background-position-y: 100px;
   height: 100vh;
-  width: 50%;
+  width: 40%;
 }
 
 .content2 {
