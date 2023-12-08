@@ -151,7 +151,7 @@ p4 {
   line-height: 1.6;
   font-family: 'Park Lane NF', sans-serif;
   color: #D4AF37;
-  text-shadow: 3PX 3PX #D4AF37;
+  text-shadow: 2PX 2PX #C0C0C0;
 }
 
 /* New Art Deco-styled box */
@@ -560,7 +560,7 @@ p4 {
   font-size: 40px;
   font-family: 'Park Lane NF', sans-serif;
   color: #D4AF37;
-  text-shadow: 3PX 3PX #D4AF37;
+  text-shadow: 2PX 2PX #C0C0C0;
 }
 
 .parallax-layer {
