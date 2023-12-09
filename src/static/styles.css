@@ -606,7 +606,7 @@ p4 {
   }
 
   .art-deco-box {
-    top: -260px;
+    top: -220px;
     margin-left: 0%;
     width: 100%;
   }
@@ -633,16 +633,16 @@ p4 {
 .background-image {
   background-image: url('../images/Background9.png');
   background-attachment: fixed; /* Create parallax effect */
-  background-size: 400px;
-  background-position-x: 300px;
+  background-size: 430px;
+  background-position-x: 320px;
   background-position-y: 100px;
-  height: 80vh;
+  height: 90vh;
   width: 75%;
 }
 
 .content2 {
   background: black;
-  height: 80vh; /* Adjust the height as needed */
+  height: 90vh; /* Adjust the height as needed */
   background-position-x: 100px;
 }
 
