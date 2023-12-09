@@ -636,32 +636,32 @@ p4 {
   background-size: 430px;
   background-position-x: 320px;
   background-position-y: 100px;
-  height: 75vh;
+  height: 77vh;
   width: 77%;
 }
 
 .content2 {
   background: black;
-  height: 75vh; /* Adjust the height as needed */
+  height: 77vh; /* Adjust the height as needed */
   background-position-x: 100px;
 }
 
    .second-background-image {
-background-position-y: 100px;
+background-position-y: 90px;
 background-position-x: 0px;
   }
 
    .third-background-image {
-    background-position-y: 0px;
+    background-position-y: 20px;
   }
 
     .Fourth-background-image {
-    background-position-y:0px;
+    background-position-y: 40px;
     background-position-x: 0px;
       }
 
   .Fifth-background-image {
-    background-position-y:80px;
+    background-position-y: 0px;
     background-position-x: 0px;
     height: 2050px;
       }
