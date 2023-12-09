@@ -571,7 +571,7 @@ p3 {
 }
 
 p4 {
-  font-size: 33px;
+  font-size: 32px;
   font-family: 'Park Lane NF', sans-serif;
   color: #D4AF37;
 }
@@ -606,7 +606,7 @@ p4 {
   }
 
   .art-deco-box {
-    top: -290px;
+    top: -320px;
     margin-left: 0%;
     width: 100%;
   }
@@ -636,13 +636,13 @@ p4 {
   background-size: 400px;
   background-position-x: 300px;
   background-position-y: 100px;
-  height: 90vh;
+  height: 70vh;
   width: 70%;
 }
 
 .content2 {
   background: black;
-  height: 90vh; /* Adjust the height as needed */
+  height: 70vh; /* Adjust the height as needed */
   background-position-x: 100px;
 }
 
