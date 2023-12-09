@@ -636,27 +636,27 @@ p4 {
   background-size: 430px;
   background-position-x: 320px;
   background-position-y: 100px;
-  height: 80vh;
+  height: 75vh;
   width: 77%;
 }
 
 .content2 {
   background: black;
-  height: 80vh; /* Adjust the height as needed */
+  height: 75vh; /* Adjust the height as needed */
   background-position-x: 100px;
 }
 
    .second-background-image {
-background-position-y: 0px;
+background-position-y: 100px;
 background-position-x: 0px;
   }
 
    .third-background-image {
-    background-position-y:-140px;
+    background-position-y: 0px;
   }
 
     .Fourth-background-image {
-    background-position-y:-25px;
+    background-position-y:0px;
     background-position-x: 0px;
       }
 
