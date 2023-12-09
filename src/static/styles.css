@@ -604,7 +604,7 @@ p4 {
   }
 
   .art-deco-box {
-    top: -360px;
+    top: -340px;
     margin-left: 0%;
     width: 100%;
   }
@@ -634,13 +634,13 @@ p4 {
   background-size: 250px;
   background-position-x: 180px;
   background-position-y: 100px;
-  height: 80vh;
+  height: 90vh;
   width: 50%;
 }
 
 .content2 {
   background: black;
-  height: 80vh; /* Adjust the height as needed */
+  height: 90vh; /* Adjust the height as needed */
   background-position-x: 100px;
 }
 
