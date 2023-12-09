@@ -291,7 +291,7 @@ function handleIntersection(entries, observer) {
         window.addEventListener('scroll', function () {
             const firstPageHeight = document.querySelector('.background-image').offsetHeight;
             const scrollPosition = window.scrollY;
-            const disappearanceThreshold = firstPageHeight - 300; // Adjust the value as needed
+            const disappearanceThreshold = firstPageHeight - 600; // Adjust the value as needed
 
             if (scrollPosition < disappearanceThreshold) {
                 rotation = Math.min(Math.max(0, scrollPosition), 180); // Rotate up to 180 degrees
