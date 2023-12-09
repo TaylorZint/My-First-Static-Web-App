@@ -32,12 +32,12 @@ body {
 
     /* Rotating Image Style */
     .rotating-image {
-        width: 200px; /* Adjust the width as needed */
-        height: auto;
-        transform-origin: center center;
-        top: -320px;
-        right: -700px;
-        transition: transform 0.5s ease; /* Add a transition for smooth rotation */
+      width: 200px; /* Adjust the width as needed */
+      height: auto;
+      position: fixed; /* Use fixed position for positioning relative to the viewport */
+      top: -320px;
+      right: -700px;
+      transition: transform 0.5s ease; /* Add a transition for smooth rotation */ /* Add a transition for smooth rotation */
     }
 
     /* Apply rotation when scrolling down */
