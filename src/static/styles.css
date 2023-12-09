@@ -636,13 +636,13 @@ p4 {
   background-size: 400px;
   background-position-x: 300px;
   background-position-y: 100px;
-  height: 70vh;
-  width: 70%;
+  height: 80vh;
+  width: 75%;
 }
 
 .content2 {
   background: black;
-  height: 70vh; /* Adjust the height as needed */
+  height: 80vh; /* Adjust the height as needed */
   background-position-x: 100px;
 }
 
