@@ -647,16 +647,16 @@ p4 {
 }
 
    .second-background-image {
-background-position-y: 90px;
+background-position-y: 130px;
 background-position-x: 0px;
   }
 
    .third-background-image {
-    background-position-y: 20px;
+    background-position-y: -30px;
   }
 
     .Fourth-background-image {
-    background-position-y: 40px;
+    background-position-y: -30px;
     background-position-x: 0px;
       }
 
