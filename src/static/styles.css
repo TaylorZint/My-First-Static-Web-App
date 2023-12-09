@@ -636,18 +636,18 @@ p4 {
   background-size: 430px;
   background-position-x: 320px;
   background-position-y: 100px;
-  height: 93vh;
+  height: 100vh;
   width: 77%;
 }
 
 .content2 {
   background: black;
-  height: 93vh; /* Adjust the height as needed */
+  height: 100vh; /* Adjust the height as needed */
   background-position-x: 100px;
 }
 
    .second-background-image {
-background-position-y:-20px;
+background-position-y: 0px;
 background-position-x: 0px;
   }
 
